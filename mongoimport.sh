@@ -1,0 +1,1 @@
+mongoimport --db=SDC --collection=listings --file=seed.json
